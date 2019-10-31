@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/thinkful-ei-iguana/webpack-day-calvin-stephen#readme",
   "dependencies": {
+    "cuid": "^2.1.6",
     "jquery": "^3.4.1"
   },
   "devDependencies": {
