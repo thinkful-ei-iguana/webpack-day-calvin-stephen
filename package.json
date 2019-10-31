@@ -1,5 +1,5 @@
 {
-  "name": "shopping-list-starter",
+  "name": "webpack-day-calvin-stephen",
   "version": "1.0.0",
   "description": "Created for the Thinkful EI Program.",
   "main": "index.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-iguana/webpack-day-calvin-stephen/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-iguana/webpack-day-calvin-stephen#readme"
+  "homepage": "https://github.com/thinkful-ei-iguana/webpack-day-calvin-stephen#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
